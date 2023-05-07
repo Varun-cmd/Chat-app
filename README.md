@@ -1,7 +1,7 @@
 
 # Chat- Application
 
-This is a Real-Time chat application made using React, Vue, ChatEngine, Rest API
+This is a Real-Time chat application made using React, ChatEngine, Rest API
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to ChatsPage.jsx, index.js 
